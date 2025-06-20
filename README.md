@@ -105,9 +105,9 @@ Upon running the program, you will be presented with a menu.
 
 ## Contributors
 
-* **Stanley Chew Jun Xian** - Member 1 (Role: COMBINE CODE) – LOGIN modules (`readUserDetails`, `registerNewUser`, `login`) 
-* **Chan Jie Yan** - Member 2 (Role: FIX ERRORS) – PURCHASE modules (`readItemList`, `addItemList`, `displayItemList`) 
-* **Chong Jian Yi** - Member 3 (Role: ERROR CHECKING) – TRANSACTION modules (`readTransaction`, `transaction`, `displayTransactionDetails`) 
+* **Stanley Chew Jun Xian** 
+* **Chan Jie Yan** 
+* **Chong Jian Yi**
 
 ## License
 
