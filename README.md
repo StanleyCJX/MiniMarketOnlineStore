@@ -1,6 +1,6 @@
-# Mini Market Online Platform
+# Mini Market Store CLI
 
-This repository contains the C++ source code for a Mini Market Online Platform, a system designed to transition a traditional grocery store in Kampar to an online platform. The project focuses on managing customer details, item lists, and transaction history.
+This repository contains the C++ source code for a Mini Market Store CLI, a system designed to transition a traditional grocery store in Kampar to an digital platform. The project focuses on managing customer details, item lists, and transaction history.
 
 ## Table of Contents
 
