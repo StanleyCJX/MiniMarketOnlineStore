@@ -111,4 +111,4 @@ Upon running the program, you will be presented with a menu.
 
 ## License
 
-This project is for academic purposes as part of the UCCD 1004 PROGRAMMING CONCEPTS AND PRACTICES course at Universiti Tunku Abdul Rahman.
+This project is for academic purposes as part of the PROGRAMMING CONCEPTS AND PRACTICES course at Universiti Tunku Abdul Rahman.
